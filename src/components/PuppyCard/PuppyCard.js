@@ -11,7 +11,7 @@ const PuppyCard = props => (
           <strong>Name:</strong> {props.name}
       </p>
     </div>
-    <span onClick={() => props.clickPuppy(props)} className="clicked">
+    <span onClick={() => props.clickPuppy(props.id)} className="clicked">
       𝘅
     </span>
   </div>

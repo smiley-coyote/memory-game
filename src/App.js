@@ -10,34 +10,32 @@ class App extends Component {
     puppy
   };
 
-  clickPuppy = puppy => {
-    const puppyId = puppy.id
-    const pup = this.state.puppy.filter(puppy => puppy.id === puppyId)   
+  clickPuppy = id => {
+    const pup = this.state.puppy.filter(puppy => puppy.id === id)   
     if (!pup[0].clicked) {
-      const thisId = puppy.id
-      const puppies = this.state.puppy.filter(puppy => puppy.id !== thisId)
-      let thisPuppy = this.state.puppy.filter(puppy => puppy.id === thisId)
+      const puppy = this.state.puppy.filter(puppy => puppy.id !== id)
+      let thisPuppy = this.state.puppy.filter(puppy => puppy.id === id)
       thisPuppy = thisPuppy[0]
       thisPuppy.clicked = true
-      puppies.push(thisPuppy);
-      console.log(puppies);
-      this.setState({ puppies })
+      puppy.push(thisPuppy);
+      
+      // randomizer
+      for (let i = puppy.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [puppy[i], puppy[j]] = [puppy[j], puppy[i]];
+      }
+      console.log(puppy);
+
+      this.setState({ puppy })
     } else {
       console.log("you lose")
     }
 
 
   }
-  //  const puppy = this.state.puppy.filter(puppy => puppy.id !== id);
-  //  // Set this.state.friends equal to the new friends array
-  //  this.setState({ puppy });
-  // if (!this.state.clicked) {
-  //   this.setState({
-  //     character: update(this.state.id, { clicked: true })
-  //   })
-  // } else {
-  //   console.log("lose");
-  // }
+
+
+
 
 
   render() {
