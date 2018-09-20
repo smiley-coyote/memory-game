@@ -1,55 +1,55 @@
 [
   {
     "id": 1,
-    "name": "",
+    "name": "Lucy",
     "image": "",
     "clicked": false
   },
   {
     "id": 2,
-    "name": "",
+    "name": "Simon",
     "image": "",
     "clicked": false
   },
   {
     "id": 3,
-    "name": "",
+    "name": "Buddy",
     "image": "",
     "clicked": false
   },
   {
     "id": 4,
-    "name": "",
+    "name": "Daisy",
     "image": "",
     "clicked": false
   },
   {
     "id": 5,
-    "name": "",
+    "name": "Molly",
     "image": "",
     "clicked": false
   },
   {
     "id": 6,
-    "name": "",
+    "name": "Luna",
     "image": "",
     "clicked": false
   },
   {
     "id": 7,
-    "name": "",
+    "name": "Bear",
     "image": "",
     "clicked": false
   },
   {
     "id": 8,
-    "name": "",
+    "name": "Bella",
     "image": "",
     "clicked": false
   },
   {
     "id": 9,
-    "name": "",
+    "name": "Jack",
     "image": "",
     "clicked": false
   }

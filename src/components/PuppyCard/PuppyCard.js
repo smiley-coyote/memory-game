@@ -1,7 +1,7 @@
 import React from "react";
-import "./CharacterCard.css";
+import "./PuppyCard.css";
 
-const CharacterCard = props => (
+const PuppyCard = props => (
   <div className="card">
     <div className="img-container">
       <img alt={props.name} src={props.image} />
@@ -11,10 +11,10 @@ const CharacterCard = props => (
           <strong>Name:</strong> {props.name}
       </p>
     </div>
-    <span onClick={() => props.clickCharacter(props.id)} className="clicked">
+    <span onClick={() => props.clickPuppy(props)} className="clicked">
       𝘅
     </span>
   </div>
 );
 
-export default CharacterCard;
+export default PuppyCard;
