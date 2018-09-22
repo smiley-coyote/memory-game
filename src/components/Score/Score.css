@@ -1,0 +1,15 @@
+.header{
+  width: 100%;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.score {
+  float: right;
+}
+
+.results {
+  float: left;
+  color: red;
+}

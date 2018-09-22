@@ -13,7 +13,7 @@
   height: 60%;
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  background:rgb(179, 179, 255);
 }
 .card > .img-container > img {
   width: 60%
@@ -47,9 +47,6 @@
 }
 
 .clicked:hover {
-  -moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
-	-webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
-  box-shadow: 0 0 5px rgba(0,0,0,0.5);
-  cursor: pointer;
+  cursor: url("/images/syringe.png"), default;
   transform: scale(1.1);
 }
