@@ -5,6 +5,8 @@
   display: flex;
   flex-flow: row wrap;
   padding: 20px;
+  width: 900px;
+  margin: 0 auto;
   justify-content: space-around;
   align-content: flex-start;
   overflow: auto;

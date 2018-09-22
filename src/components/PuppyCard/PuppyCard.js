@@ -2,19 +2,18 @@ import React from "react";
 import "./PuppyCard.css";
 
 const PuppyCard = props => (
-  <div className="card">
-    <div className="img-container">
-      <img alt={props.name} src={props.image} />
-    </div>
-    <div className="content">
-      <p>
+  <span onClick={() => props.clickPuppy(props.id)} className="clicked">
+    <div className="card">
+      <div className="img-container">
+        <img alt={props.name} src={props.image} />
+      </div>
+      <div className="content">
+        <p>
           <strong>Name:</strong> {props.name}
-      </p>
+        </p>
+      </div>
     </div>
-    <span onClick={() => props.clickPuppy(props.id)} className="clicked">
-      𝘅
-    </span>
-  </div>
+  </span>
 );
 
 export default PuppyCard;
