@@ -1,5 +1,6 @@
 import React from "react";
 import "./PuppyCard.css";
+import "../../images/syringe.png"
 
 const PuppyCard = props => (
   <span onClick={() => props.clickPuppy(props.id)} className="clicked">
