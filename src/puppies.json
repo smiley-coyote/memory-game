@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Lucy",
-    "image": "https://i.pinimg.com/736x/45/a4/e1/45a4e1a9dcddbd936c5586419842e397--cute-puppy-photos-puppy-pictures.jpg",
+    "image": "/assets/images/puppy1.jpg",
     "clicked": false
   },
   {
     "id": 2,
     "name": "Simon",
-    "image": "https://moderndogmagazine.com/sites/default/files/images/uploads/Pug.jpg",
+    "image": "/assets/images/puppy2.jpg",
     "clicked": false
   },
   {
     "id": 3,
     "name": "Oliver",
-    "image": "https://usercontent2.hubstatic.com/12791691_f520.jpg",
+    "image": "/assets/images/puppy3.jpg",
     "clicked": false
   },
   {
     "id": 4,
     "name": "Daisy",
-    "image": "http://www.mosscreekgoldendoodles.com/images/buyer_1.jpg",
+    "image": "/assets/images/puppy4.jpg",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Molly",
-    "image": "http://thebullybreeds.com/wp-content/uploads/2013/02/blue-bully-pitbull-puppy2.jpg",
+    "image": "/assets/images/puppy5.jpg",
     "clicked": false
   },
   {
     "id": 6,
     "name": "Luna",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golde33443.jpg/280px-Golde33443.jpg",
+    "image": "/assets/images/puppy6.jpg",
     "clicked": false
   },
   {
     "id": 7,
     "name": "Odie",
-    "image": "https://www.animaroo.com/assets/sites/animaroo.com/img/breeds/img/beagle_medium.jpg?1355978424",
+    "image": "/assets/images/puppy7.jpg",
     "clicked": false
   },
   {
     "id": 8,
     "name": "Bella",
-    "image": "https://a00000820018-live-cc36dd0ff06f46c08f9308e5144c2f82-209a3c0.s3.amazonaws.com/ap_media/HUQPAJEUCXKV.jpg",
+    "image": "/assets/images/puppy8.jpg",
     "clicked": false
   },
   {
     "id": 9,
     "name": "Jack",
-    "image": "http://www.dachshund-owner-guide.com/dachshund-dog-fb.jpg",
+    "image": "/assets/images/puppy9.jpg",
     "clicked": false
   },
   {
     "id": 10,
     "name": "Abby",
-    "image": "https://weneedfun.com/wp-content/uploads/2016/12/Yorkshire-Terrier-Puppies-5.jpg",
+    "image": "/assets/images/puppy10.jpg",
     "clicked": false
   },
   {
     "id": 11,
     "name": "Sam",
-    "image": "https://global-free-classified-ads-s02.r.worldssl.net/user_images/1617552.jpg",
+    "image": "/assets/images/puppy11.jpg",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Waldo",
-    "image": "https://puppyspot-photos-prod.s3.us-west-2.amazonaws.com/breeds/219/card/500000282_medium.jpg",
+    "image": "/assets/images/puppy12.jpg",
     "clicked": false
   }
 ]

@@ -47,6 +47,6 @@
 }
 
 .clicked:hover {
-  cursor: url("../../images/syringe.png"), default;
+  cursor: url("/assets/images/syringe.png"), default;
   transform: scale(1.1);
 }
