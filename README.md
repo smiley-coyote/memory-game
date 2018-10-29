@@ -3,6 +3,9 @@
 Welcome to the Sick Puppy Memory Game! For this project, I use React to manage 
 a component state, respond to user events, and display all of the data on the page.
 
+Link:
+* https://smiley-coyote.github.io/memory-game/
+
 ### How does it work?
 
 Each puppy is stored as an object within an array, and that data is saved into a
