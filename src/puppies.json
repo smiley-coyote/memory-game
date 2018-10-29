@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Lucy",
-    "image": "/assets/images/puppy1.jpg",
+    "image": "../assets/images/puppy1.jpg",
     "clicked": false
   },
   {
     "id": 2,
     "name": "Simon",
-    "image": "/assets/images/puppy2.jpg",
+    "image": "../assets/images/puppy2.jpg",
     "clicked": false
   },
   {
     "id": 3,
     "name": "Oliver",
-    "image": "/assets/images/puppy3.jpg",
+    "image": "../assets/images/puppy3.jpg",
     "clicked": false
   },
   {
     "id": 4,
     "name": "Daisy",
-    "image": "/assets/images/puppy4.jpg",
+    "image": "../assets/images/puppy4.jpg",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Molly",
-    "image": "/assets/images/puppy5.jpg",
+    "image": "../assets/images/puppy5.jpg",
     "clicked": false
   },
   {
     "id": 6,
     "name": "Luna",
-    "image": "/assets/images/puppy6.jpg",
+    "image": "../assets/images/puppy6.jpg",
     "clicked": false
   },
   {
     "id": 7,
     "name": "Odie",
-    "image": "/assets/images/puppy7.jpg",
+    "image": "../assets/images/puppy7.jpg",
     "clicked": false
   },
   {
     "id": 8,
     "name": "Bella",
-    "image": "/assets/images/puppy8.jpg",
+    "image": "../assets/images/puppy8.jpg",
     "clicked": false
   },
   {
     "id": 9,
     "name": "Jack",
-    "image": "/assets/images/puppy9.jpg",
+    "image": "../assets/images/puppy9.jpg",
     "clicked": false
   },
   {
     "id": 10,
     "name": "Abby",
-    "image": "/assets/images/puppy10.jpg",
+    "image": "../assets/images/puppy10.jpg",
     "clicked": false
   },
   {
     "id": 11,
     "name": "Sam",
-    "image": "/assets/images/puppy11.jpg",
+    "image": "../assets/images/puppy11.jpg",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Waldo",
-    "image": "/assets/images/puppy12.jpg",
+    "image": "../assets/images/puppy12.jpg",
     "clicked": false
   }
 ]
