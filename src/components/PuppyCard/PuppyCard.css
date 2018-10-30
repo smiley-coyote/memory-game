@@ -47,6 +47,6 @@
 }
 
 .clicked:hover {
-  cursor: url("/assets/images/syringe.png"), default;
+  cursor: url("https://i.imgur.com/Jz6APqo.png"), default;
   transform: scale(1.1);
 }
